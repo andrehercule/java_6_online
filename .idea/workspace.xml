@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cae533d4-17ac-417f-9d4a-c9b49a44a1d6" name="Changes" comment="add gitignore" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OQ5swfXKIJxRsvz7V8Uq2qr9L6" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java/Projects/java_6_online/hw/src",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.paladiuc.hw4.Task1" />
+      <module name="hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.paladiuc.hw4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.paladiuc.hw5.Task2" />
+      <module name="hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.paladiuc.hw5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.paladiuc.hw5.Task4" />
+      <module name="hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.paladiuc.hw5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.paladiuc.hw5.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.paladiuc.hw5.Task1" />
+      <module name="hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.paladiuc.hw5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.paladiuc.hw5.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.paladiuc.hw5.Task3" />
+      <module name="hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.paladiuc.hw5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.ua.paladiuc.hw5.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.ua.paladiuc.hw5.Task1" />
+        <item itemvalue="Application.Task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cae533d4-17ac-417f-9d4a-c9b49a44a1d6" name="Changes" comment="" />
+      <created>1681480179944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681480179944</updated>
+      <workItem from="1681480182173" duration="1868000" />
+      <workItem from="1681482158367" duration="175000" />
+      <workItem from="1681482378262" duration="789000" />
+      <workItem from="1681483208141" duration="593000" />
+      <workItem from="1681483852879" duration="2514000" />
+      <workItem from="1681487199284" duration="3705000" />
+      <workItem from="1681492379028" duration="2989000" />
+      <workItem from="1681495751375" duration="61000" />
+    </task>
+    <task id="LOCAL-00001" summary="add hw2">
+      <created>1681482502194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681482502194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add hw3">
+      <created>1681482642546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681482642546</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add hw4">
+      <created>1681482787598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681482787598</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add hw5">
+      <created>1681482855955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681482855955</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add hw6">
+      <created>1681482948981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681482948981</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add hw6">
+      <created>1681482993831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681482993831</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add hw7">
+      <created>1681483062289</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681483062289</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add gitignore">
+      <created>1681483129111</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681483129111</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add gitignore">
+      <created>1681492414279</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681492414279</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add gitignore">
+      <created>1681493625460</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681493625460</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add gitignore">
+      <created>1681494991158</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681494991160</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hw2" />
+    <MESSAGE value="add hw3" />
+    <MESSAGE value="add hw4" />
+    <MESSAGE value="add hw5" />
+    <MESSAGE value="add hw6" />
+    <MESSAGE value="add hw7" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+  </component>
+</project>
