@@ -1,7 +1,6 @@
 
 // bugfix branch
 
-
 package ua.paladiuc.hw7;
 
 public class Vector {
